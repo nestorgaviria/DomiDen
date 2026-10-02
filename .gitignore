@@ -1,0 +1,17 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# knitr / cache
+_cache/
+*.knit.md
+*.knit.html
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Project outputs (optional; keep if you want to share example results)
+results/
+figures/

@@ -1,0 +1,18 @@
+Package: DomiDen
+Title: Dominance Analysis of Denudation Rates
+Version: 0.1.0
+Authors@R: person("Your", "Name", role = c("aut", "cre"), email = "your.email@example.org")
+Description: Estimates relative importance (LMG) of groups of environmental
+    predictors on catchment denudation rates using ensembles of random OLS
+    models ranked by AIC.
+License: MIT
+Imports:
+    here,
+    relaimpo,
+    dplyr,
+    tidyr,
+    tibble,
+    ggplot2,
+    readxl,
+    knitr
+Encoding: UTF-8
