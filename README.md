@@ -1,11 +1,13 @@
-                                         ,,                                   
-`7MM"""Yb.                               db  `7MM"""Yb.                       
-  MM    `Yb.                                   MM    `Yb.                     
-  MM     `Mb  ,pW"Wq.`7MMpMMMb.pMMMb.  `7MM    MM     `Mb  .gP"Ya `7MMpMMMb.  
-  MM      MM 6W'   `Wb MM    MM    MM    MM    MM      MM ,M'   Yb  MM    MM  
-  MM     ,MP 8M     M8 MM    MM    MM    MM    MM     ,MP 8M""""""  MM    MM  
-  MM    ,dP' YA.   ,A9 MM    MM    MM    MM    MM    ,dP' YM.    ,  MM    MM  
-.JMMmmmdP'    `Ybmd9'.JMML  JMML  JMML..JMML..JMMmmmdP'    `Mbmmd'.JMML  JMML.
+```text
+8888888b.                         d8b 8888888b.                   
+888  "Y88b                        Y8P 888  "Y88b                  
+888    888                            888    888                  
+888    888  .d88b.  88888b.d88b.  888 888    888  .d88b.  88888b. 
+888    888 d88""88b 888 "888 "88b 888 888    888 d8P  Y8b 888 "88b
+888    888 888  888 888  888  888 888 888    888 88888888 888  888
+888  .d88P Y88..88P 888  888  888 888 888  .d88P Y8b.     888  888
+8888888P"   "Y88P"  888  888  888 888 8888888P"   "Y8888  888  888
+```
 
 **DomiDen** (Dominance analysis of Denudation rates) is a set of R scripts that
 estimates the relative importance (general dominance, LMG) of groups of
