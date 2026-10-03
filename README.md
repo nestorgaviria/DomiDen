@@ -10,9 +10,9 @@
 ```
 
 **DomiDen** (Dominance analysis of Denudation rates) is a set of R scripts that
-estimates the relative importance (general dominance, LMG) of groups of
+estimates the absolute importance (general dominance, LMG) of groups of
 environmental predictors, such as topography, climate and seismicity, on
-catchment denudation rates. It uses an ensemble of random OLS models ranked by AIC.
+catchment denudation rates. It generates an ensemble of random OLS models and ranks them by AIC.
 
 ## Key features
 
@@ -29,6 +29,7 @@ catchment denudation rates. It uses an ensemble of random OLS models ranked by A
 
 All paths are relative to the project root `DomiDen/`, detected with the `here` package.
 
+```text
 DomiDen/
 ├── DomiDen.Rproj
 ├── README.md
@@ -40,6 +41,7 @@ DomiDen/
 ├── data/    <- your input tables (.xlsx / .csv)
 ├── results/ <- CSV outputs (created automatically)
 └── figures/ <- PDF figures (created automatically)
+```
 
 ## Requirements
 
